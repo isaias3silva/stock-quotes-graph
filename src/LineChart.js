@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import CanvasJSReact from "./asserts/canvas.react";
+import CanvasJSReact from './asserts/canvas.react';
 var CanvasJSChart = CanvasJSReact.CanvasJSChart;
 
 var openValues = [{
